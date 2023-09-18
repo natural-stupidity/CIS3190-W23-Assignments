@@ -3,9 +3,9 @@
 All of the assignments for CIS 3190 (Software for Legacy Systems) at the University of Guelph.
 
 ## Technical Details:
-**Assignment 1:** Fortran
-**Assignment 2:** Ada
-**Assignment 3:** COBOL
+**Assignment 1:** Fortran<br/>
+**Assignment 2:** Ada<br/>
+**Assignment 3:** COBOL<br/>
 **Assignment 4:** We had a choice of what we wanted. I decided to use Ada
 
 ## How to Run:
