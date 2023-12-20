@@ -2,6 +2,12 @@
 ### Year: 2023
 All of the assignments for CIS 3190 (Software for Legacy Systems) at the University of Guelph.
 
+**Assignment 1** - Fortran Word Jumble Solver<br/>
+**Assignment 2** - Ada Polynomial Arithmetic<br/>
+**Assignment 3** - COBOL Roman Numeral Converter<br/>
+**Assignment 4** - Ada Text Statistics<br/>
+
+
 ## Technical Details:
 **Assignment 1:** Fortran<br/>
 **Assignment 2:** Ada<br/>
